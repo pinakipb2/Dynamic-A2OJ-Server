@@ -44,7 +44,7 @@ npm i package.json
 Run the application:
 
 ```
-npm start
+npm dev
 ```
 
 **Love Dynamic A2OJ? Give our repo a star :star: :arrow_up:.**
