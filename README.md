@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://tungsten-ember-vacuum.glitch.me/"><strong>https://tungsten-ember-vacuum.glitch.me/</strong></a>
+  <a href="https://tungsten-ember-vacuum.glitch.me/" target="__blank"><strong>https://tungsten-ember-vacuum.glitch.me/</strong></a>
   <br>
 </p>
 
